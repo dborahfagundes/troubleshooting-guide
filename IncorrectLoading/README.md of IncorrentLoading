@@ -11,3 +11,16 @@ Solution: To resolve incorrect loading issues, follow these steps:
 5. Check Configurations: Review settings and configurations to ensure they are correct.
 6. Consult Logs: Analyze error logs for specific issues that can guide troubleshooting.
 
+``` 
+<script>
+if (Check.Internet) {
+  // Check your internet before you start doing the project
+  document.getElementById('Check Configurations').classList.add;
+} else {
+  // Evaluate your settings so there's no problem
+  document.getElementById('Update Software').classList.add;
+  // Always update your app before any
+}
+</script>
+
+```
