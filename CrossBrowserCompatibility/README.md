@@ -1,4 +1,4 @@
-# Cross-Browser Compatibility
+# Cross-Browser Compatibility 💻
 
 **The Problem:**
 
